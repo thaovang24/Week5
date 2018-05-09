@@ -1,1 +1,55 @@
+Thao Vang
 
+CSCI2461
+
+Do you ever feel how you don't have your laptop to carry around since it's heavy and gets in the way? With USB bootable flash driver
+
+it's like your very own pc in your pocket where ever you go it will sure to be bound.
+
+There are several ways to install a USB bootable flash drive.
+
+You could use a tool called rufus to create partitions or another is the fdisk tool.
+
+The most conventient way for me is to download your favorite distros and burn the ISO image to a dvd and run it from there.
+
+You could try it out first by using the live mode feature to see if your distro suites your needs. Once you know you like it, the next
+
+step is to start installing it from the DVD to usb flash drive. IT IS THAT EASY!!!
+
+For me debian is a stable linux distro with great support forum since it also have similar feature as UBUNTU
+
+Here are the steps:
+
+Hardware required: SanDisk USB Flash Drive and Debian Live DVD
+
+1. Insert USB flash drive to pc
+
+2. Change your pc bios to boot into cd/dvd 
+
+3. Insert your debian live cd/dvd into drive
+
+4. Linux boot menue will prompt for options to install
+
+5. Select option to install to pc
+
+6. You will see your hard drive and usb flash drive; for me it shows SanDisk as my protable flash drive, it might be different for you
+
+7. Select your usb flash drive to install
+
+8. Linux will ask to auto partition or manual partition usb flash drive
+
+9. Select the option to install all directories into one partition 
+
+10. Select option to continue and format the drive and continue to install
+
+11. Once it start to install it will ask for either to select the current versions of applications from dvd/cd or download and update from the internet
+
+For now just select install from dvd/cd
+
+12. Once install complete it will ask to enter a new password for user id root (enter your new password)
+
+13. It will again ask for a new user name and password (enter your new name and password)
+
+14. Continue to install and it will ask for domain, accept default (you can change it later)
+
+15. Once install complete, log on to the new pc AND WELCOME TO LINUX COMMUNITIES!!!
